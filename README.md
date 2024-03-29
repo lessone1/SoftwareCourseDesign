@@ -13,12 +13,13 @@ APIGuard是我们设计的一款轻量级的、基于Detours库开发的异常�
 - 一些基本的软件信息，包括版权所有（~~也许没用~~）、联系作者和开源仓库跳转等。
 
 ## 环境搭建
-你可以在*发行版*中直接下载最新版APIGuard，也可以搭建环境参与APIGuard开发：
+APIGuard搭建使用/开发：
 
 一些基本的操作流程如下：
 - 下载安装Visual Studio 2022；
 - 下载Detours 4.0.1源码，并完成编译；
-- 打开 OurWork/Dll1/Dll1.sln和OurWork/注射器/injector/injector.sln，选择“*项目*”-“*属性*”-“*VC++目录*”，修改*包含目录*和*库目录*为你的Detours 4.0.1编译结果路径。
+- 打开 Dll1/Dll1.sln和注射器/injector/injector.sln，选择“*项目*”-“*属性*”-“*VC++目录*”，修改*包含目录*和*库目录*为你的Detours 4.0.1编译结果路径。
+- **在 ***注射器/injector/injector.sln*** 中修改Dll的路径**
 - 参与开发，丰富功能。
 
 ## 使用说明
@@ -26,17 +27,10 @@ APIGuard是我们设计的一款轻量级的、基于Detours库开发的异常�
 ```
 # 目录结构
 ├───asset                  # 图片等资源文件
-├───HookFile		       # 文件操作HOOK设计
-├───HookHeap		       # 堆操作HOOK设计
-├───HookMemory		       # 内存操作HOOK设计
-├───HookReg		           # 注册表操作HOOK设计
-├───HookSocket		       # SocketHOOK设计
-├───HookThread&&Process    # 线程/进程操作HOOK设计
 ├───OurWork		           # 最终成果
-│	  ├─app		           # 测试app
-│	  ├─Dll1		       # 注入的DLL
-│	  └─注射器	           # APIGuard，实现注入，显示截获
-├───...                    # HUST Detours部分内容
+	  ├─app		           # 测试app
+	  ├─Dll1		       # 注入的DLL
+	  └─注射器	           # APIGuard，实现注入，显示截获
 ```
 ### 使用方法
 我们***强烈建议***在**使用时关闭搜狗拼音**，它会造成程序截获到未知原因的“HeapFree”等行为。
