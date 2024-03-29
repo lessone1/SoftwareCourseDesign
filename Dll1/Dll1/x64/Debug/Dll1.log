@@ -1,0 +1,89 @@
+﻿  dllmain.cpp
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(76,35): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HWND”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(76,35): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "HWND" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(117,35): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HWND”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(117,35): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "HWND" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(120,50): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(124,53): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(160,39): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPCSTR”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(160,39): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "LPCSTR" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(161,39): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPOFSTRUCT”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(161,39): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "LPOFSTRUCT" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(213,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(217,39): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPSECURITY_ATTRIBUTES”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(217,39): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "LPSECURITY_ATTRIBUTES" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(220,39): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HANDLE”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(220,39): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "HANDLE" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(257,39): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HANDLE”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(257,39): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "HANDLE" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(258,39): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPCVOID”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(258,39): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "LPCVOID" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(260,39): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPDWORD”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(260,39): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "LPDWORD" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(261,39): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPOVERLAPPED”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(261,39): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "LPOVERLAPPED" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(344,39): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HANDLE”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(344,39): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "HANDLE" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(345,39): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPVOID”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(345,39): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "LPVOID" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(347,39): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPDWORD”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(347,39): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "LPDWORD" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(348,39): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPOVERLAPPED”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(348,39): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "LPOVERLAPPED" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(447,35): warning C4477: “sprintf”: 格式字符串“%I64X”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“HANDLE”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(465,35): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HANDLE”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(465,35): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "HANDLE" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(483,35): warning C4477: “sprintf”: 格式字符串“%I64X”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“HANDLE”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(485,35): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPVOID”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(485,35): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "LPVOID" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(563,35): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HKEY”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(563,35): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "HKEY" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(566,52): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(569,35): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPWSTR”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(569,35): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "LPWSTR" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(572,35): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“const LPSECURITY_ATTRIBUTES”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(572,35): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "const LPSECURITY_ATTRIBUTES" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(573,35): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PHKEY”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(573,35): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "PHKEY" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(574,35): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPDWORD”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(574,35): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "LPDWORD" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(611,35): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HKEY”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(611,35): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "HKEY" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(614,55): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(619,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(639,35): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HKEY”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(639,35): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "HKEY" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(670,35): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HKEY”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(670,35): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "HKEY" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(673,52): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(677,35): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“PHKEY”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(677,35): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "PHKEY" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(701,35): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“HKEY”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(701,35): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "HKEY" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(704,55): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(742,35): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPWSAPROTOCOL_INFO”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(742,35): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "LPWSAPROTOCOL_INFO" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(801,35): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPWSABUF”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(801,35): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "LPWSABUF" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(803,35): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPDWORD”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(803,35): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "LPDWORD" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(804,35): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“DWORD”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(804,35): warning C4313: "sprintf": 格式字符串中的 "%s" 与类型为 "DWORD" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(805,35): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“LPWSAOVERLAPPED”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(806,35): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“LPWSAOVERLAPPED_COMPLETION_ROUTINE”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(853,35): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“const sockaddr *”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(853,35): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "const sockaddr *" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(855,35): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“LPWSABUF”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(856,35): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“LPWSABUF”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(856,35): warning C4313: "sprintf": 格式字符串中的 "%d" 与类型为 "LPWSABUF" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(917,35): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“LPWSABUF”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(919,35): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPDWORD”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(919,35): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "LPDWORD" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(920,35): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPDWORD”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(920,35): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "LPDWORD" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(921,35): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPWSAOVERLAPPED”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(921,35): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "LPWSAOVERLAPPED" 的参数 1 冲突
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(922,35): warning C4477: “sprintf”: 格式字符串“%08X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPWSAOVERLAPPED_COMPLETION_ROUTINE”
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\Dll1\dllmain.cpp(922,35): warning C4313: "sprintf": 格式字符串中的 "%X" 与类型为 "LPWSAOVERLAPPED_COMPLETION_ROUTINE" 的参数 1 冲突
+    正在创建库 E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\x64\Debug\Dll1.lib 和对象 E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\x64\Debug\Dll1.exp
+  Dll1.vcxproj -> E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\Dll1\x64\Debug\Dll1.dll

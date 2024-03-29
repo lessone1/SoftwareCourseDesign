@@ -1,0 +1,5 @@
+﻿D:\visual studio 2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(injector.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  injector.cpp
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\注射器\injector\injector\injector.cpp(318,31): warning C4244: “初始化”: 从“LRESULT”转换到“int”，可能丢失数据
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\注射器\injector\injector\injector.cpp(832,49): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  injector.vcxproj -> E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\注射器\injector\x64\Debug\APIGuard.exe

@@ -1,0 +1,12 @@
+﻿  app.cpp
+D:\visual studio 2022\VC\Tools\MSVC\14.37.32822\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\app\app\app\app.cpp(120,15): warning C4244: “return”: 从“WPARAM”转换到“int”，可能丢失数据
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\app\app\app\app.cpp(318,52): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\app\app\app\app.cpp(302,11): warning C4101: “pBuffer”: 未引用的局部变量
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\app\app\app\app.cpp(372,88): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\app\app\app\app.cpp(489,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\app\app\app\app.cpp(490,5): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\app\app\app\app.cpp(592,32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\app\app\app\app.cpp(704,31): warning C4267: “=”: 从“size_t”转换到“ULONG”，可能丢失数据
+E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\app\app\app\app.cpp(671,32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  app.vcxproj -> E:\Desktop\课程\软件安全课程设计\hust-detours\OurWork\app\app\x64\Debug\app.exe
